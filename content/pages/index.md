@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Hi, I’m Pras. I am a Software Engineer and I love writing code.'
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: I hope to share my knowledge with the community whilst learning everyday.
     actions:
       - label: Contact Me
         url: /contact
