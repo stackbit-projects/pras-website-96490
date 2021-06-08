@@ -30,7 +30,7 @@ sections:
       - image: /images/Logo-Light@3x.png
         image_alt: Logo 2
         image_align: center
-        content_align: center
+        content_align: right
       - image_alt: Logo 3
         image_align: center
       - image_alt: Logo 4
