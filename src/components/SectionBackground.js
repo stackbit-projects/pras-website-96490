@@ -16,6 +16,7 @@ export default class SectionBackground extends React.Component {
             <div
                 className="cover-img"
                 style={{
+                    backgroundColor: red,
                     backgroundImage: `url('${withPrefix(backgroundImage)}')`,
                     opacity: backgroundImageOpacity,
                     backgroundSize: backgroundImageSize,
