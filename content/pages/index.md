@@ -25,8 +25,7 @@ sections:
     subtitle: Who I work for
     align: center
     grid_items:
-      - image: images/logo-1.svg
-        image_alt: Logo 1
+      - image_alt: Logo 1
         image_align: center
       - image: /images/Logo-Light@3x.png
         image_alt: Logo 2
