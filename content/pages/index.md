@@ -16,7 +16,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/watercolor.png
+    background_image: /images/cool-background1.png
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
